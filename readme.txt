@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Git add merge.
 Git 1.
 Git 1-1.
+Git 2.
